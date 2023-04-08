@@ -24,3 +24,10 @@ Neste projeto trabalhei com:
 - REACTJS (SCRIPT/FUNÇÕES DÁ PAGINA)
 - JAVASCRIPT (SCRIPT/FUNÇÕES DÁ PAGINA)
 
+──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──
+
+ ### Imagens do Projeto:
+
+![LokosFlix1](https://user-images.githubusercontent.com/91907650/230735435-d7a4e254-fc15-45c3-a7e4-57ef91203d2d.jpg)
+
+![LokosFlix2](https://user-images.githubusercontent.com/91907650/230735437-b6e3bd01-3d1b-4abc-97b4-d1f349824a4c.jpg)
